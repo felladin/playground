@@ -35,3 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### About user
+#Hello World!
+My name is felladin
+This is my first git connected to my Debian at home and I intend to use git to try out SASS and javascript on my pages.
